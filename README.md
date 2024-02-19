@@ -9,7 +9,7 @@
   <img height=50cm src="https://cdn-icons-png.flaticon.com/512/919/919827.png"/>
 </div>
 <footer>
-  <br><br>
+  <br>
   <h3>Contato</h3>
   <a href="mailto:faria.renan@engenharia.ufjf.br"><img height=30cm src="https://cdn-icons-png.flaticon.com/512/281/281769.png"</a>
   <a href=www.linkedin.com/in/renan-faria-9955021a1"><img height=30cm src="https://cdn-icons-png.flaticon.com/256/174/174857.png"</a>
