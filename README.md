@@ -1,7 +1,8 @@
 <h1>Olá, seja bem vindo ao meu perfil!</h1>
 <p>Eu sou o Renan Faria, estudante de Sistemas Eletrônicos.</p> 
 <p>Tenho interesse nas áreas de IoT, design de PCBs e desenvolvimento de sistemas.</p>
-<p>Atualmente atuo como Gerente do Seguidor de Linha na equipe de competição Rinobot Team da UFJF.</p>
+<a href="https://www.instagram.com/rinobotbrasil/"><img align=right height=60cm src="https://github.com/sephiroth6001/sephiroth6001/assets/56770025/78c67b57-31d9-4f4b-9db8-51c6ab2b52d2"/></a>
+<p>Atualmente atuo como Gerente do Seguidor de Linha na equipe de competição Rinobot Team da UFJF. O Instagram da equipe está no icone ao lado caso queira conhecer melhor a equipe.</p> 
 <p>Estou buscando estudar um pouco mais sobre Javascript e Python. Dicas e sugestões de projetos são muito bem vindas.</p>
 <div style="display:flex;">
   Minha linguagens preferidas: 
@@ -16,8 +17,6 @@
   <a href="mailto:faria.renan@engenharia.ufjf.br"><img height=30cm src="https://cdn-icons-png.flaticon.com/512/281/281769.png"</a>
   <a href=www.linkedin.com/in/renan-faria-9955021a1"><img height=30cm src="https://cdn-icons-png.flaticon.com/256/174/174857.png"</a>
 </footer>
-
-
 
 <!--
 **sephiroth6001/sephiroth6001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
