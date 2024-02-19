@@ -2,11 +2,13 @@
 <p>Eu sou o Renan Faria, estudante de Sistemas Eletrônicos.</p> 
 <p>Tenho interesse nas áreas de IoT, design de PCBs e desenvolvimento de sistemas.</p>
 <p>Atualmente atuo como Gerente do Seguidor de Linha na equipe de competição Rinobot Team da UFJF.</p>
+<p>Estou buscando estudar um pouco mais sobre Javascript e Python. Dicas e sugestões de projetos são muito bem vindas.</p>
 <div style="display:flex;">
   Minha linguagens preferidas: 
   <img height=50cm src="https://ossmalta.eu/wp-content/uploads/2020/06/arduino-icon.png"/>
   <img height=50cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>
   <img height=50cm src="https://cdn-icons-png.flaticon.com/512/919/919827.png"/>
+  <img height=50cm src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/>
 </div>
 <footer>
   <br>
