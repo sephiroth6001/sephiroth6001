@@ -3,9 +3,10 @@
 <p>Tenho interesse nas áreas de IoT, design de PCBs e desenvolvimento de sistemas.</p>
 <a href="https://www.instagram.com/rinobotbrasil/"><img align=right height=60cm src="https://github.com/sephiroth6001/sephiroth6001/assets/56770025/78c67b57-31d9-4f4b-9db8-51c6ab2b52d2"/></a>
 <p>Atualmente atuo como Gerente do Seguidor de Linha na equipe de competição Rinobot Team da UFJF. O Instagram da equipe está no icone ao lado caso queira conhecer melhor a equipe.</p> 
+<p> Também atuo como pesquisador do Laboratório de Instrumentação e Telemetria (LiTel), atuando na área de sensores de fibra ótica.  
 <p>Estou buscando estudar um pouco mais sobre Javascript e Python. Dicas e sugestões de projetos são muito bem vindas.</p>
 <div style="display:flex;">
-  Minha linguagens preferidas: 
+  Minhas linguagens preferidas: 
   <img height=50cm src="https://ossmalta.eu/wp-content/uploads/2020/06/arduino-icon.png"/>
   <img height=50cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>
   <img height=50cm src="https://cdn-icons-png.flaticon.com/512/919/919827.png"/>
