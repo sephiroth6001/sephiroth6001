@@ -5,8 +5,8 @@
 <p> Estou buscando estudar um pouco mais sobre análise de dados, especialmente focado em Python. Dicas e sugestões de projetos são muito bem vindas.</p>
 <div style="display:flex;">
   Minhas linguagens preferidas: 
-  <img height=50 src="https://ossmalta.eu/wp-content/uploads/2020/06/arduino-icon.png](https://images.seeklogo.com/logo-png/24/1/c-logo-png_seeklogo-249774.png"/>
-  <img height=50 src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt='python-logo'/>
+  <img height=50cm src="https://ossmalta.eu/wp-content/uploads/2020/06/arduino-icon.png](https://images.seeklogo.com/logo-png/24/1/c-logo-png_seeklogo-249774.png"/>
+  <img height=50cm src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt='python-logo'/>
 </div>
 <footer>
   <br>
