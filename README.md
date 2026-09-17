@@ -7,7 +7,7 @@
   Minhas linguagens preferidas: 
   <img height=50cm src="https://ossmalta.eu/wp-content/uploads/2020/06/arduino-icon.png"/>
   <img height=50cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>
-  <img height=50cm src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/>
+  <img height=50cm src="[https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)"/>
 </div>
 <footer>
   <br>
