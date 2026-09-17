@@ -6,7 +6,7 @@
 <div style="display:flex;">
   Minhas linguagens preferidas: 
   <img height=50cm src="https://ossmalta.eu/wp-content/uploads/2020/06/arduino-icon.png"/>
-  <img height=50cm src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt='python-logo'/>
+  <img height=50cm src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)" alt='python-logo'/>
 </div>
 <footer>
   <br>
